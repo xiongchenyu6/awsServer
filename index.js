@@ -7,3 +7,6 @@ app.get('/hey', (req, res) => {
 })
 app.listen(3000, () => console.log('Server running on port 3000'))
 
+app.get('/version', (req, res) => {
+  res.send({'v': 1.1})
+})
