@@ -18,5 +18,8 @@
   "homepage": "https://github.com/xiongchenyu6/awsServer#readme",
   "dependencies": {
     "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "pm2": "^2.4.2"
   }
 }
