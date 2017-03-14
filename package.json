@@ -1,7 +1,7 @@
 {
   "name": "aws",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is for test the update",
   "main": "index.js",
   "scripts": {
     "restart": "pm2 startOrRestart ecosystem.config.js",
